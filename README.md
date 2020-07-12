@@ -2,6 +2,8 @@
 
 ## Project architecture made by Francisco Castillo
 
+### React, Rollup, Typescript, Storybook and Jest
+
 ## Available Scripts
 
 In the project directory, you can run:
